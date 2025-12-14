@@ -12,7 +12,7 @@ const(
 
 func main() {
 
-	// short hand syntax of declare a variables
+	// short hand syntax is used to declare a variable
     name := "boruto" // we cannot use short hand syntax outside of the func main
 	fmt.Println(name)
 	fmt.Println(age)
