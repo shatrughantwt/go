@@ -1,7 +1,7 @@
-package variadic
+package main
 
 import "fmt"
 
 func main() {
-	
+	fmt.Println("hello in ubuntu")
 }
